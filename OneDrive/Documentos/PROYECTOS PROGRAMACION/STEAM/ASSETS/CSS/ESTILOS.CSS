@@ -1,0 +1,98 @@
+body{
+    font-family: 'Monserrat', sans-serif;
+    overflow-x: hidden;
+    background-color: #171d25;
+}
+
+/*ENCABEZADO*/
+
+#menu a{
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+   
+    
+   
+}
+
+
+#menu a2{
+    background-color: #171d25;
+    color: white;
+    cursor: pointer;
+}
+
+#menu button{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#menu {
+    background-color: #171d25;
+    padding: 30px;
+    
+   
+}
+
+#menu a:hover{
+    color: blue;
+}
+
+.steam{
+    color: white;
+   
+}
+
+
+.logo{
+    width: 150px;
+     
+    margin-left: 40px;
+}
+
+
+.dropdown-menu{
+    background-color: #171d25;
+}
+
+
+.navegacion{
+    font-size: 2000px;
+}
+
+/*SLIDER DE IMAGENES*/
+
+.carousel-inner{
+    background-attachment: fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.buscador i{
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 6px;
+}
